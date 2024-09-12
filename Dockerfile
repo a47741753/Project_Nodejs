@@ -1,7 +1,6 @@
-FROM node:12.22.0
-# Use an official Node.js image as the base
-FROM node:latest
 
+# Use an official Node.js image as the base
+FROM node:12.22.0
 # Set the working directory in the container
 WORKDIR /app
 
