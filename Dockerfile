@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:12.22.0
 # Use an official Node.js image as the base
 FROM node:latest
 
